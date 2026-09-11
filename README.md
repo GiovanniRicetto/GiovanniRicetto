@@ -1,44 +1,67 @@
-Com vasta experiência em automação de testes 🤖 (API e Web UI) e testes de carga, garanto a qualidade e o desempenho do software em todas as etapas. Minha paixão por tecnologia me leva a dominar diversas linguagens (Ruby, Python) e ferramentas (RSpec, Selenium, JMeter, etc.), assegurando a robustez e escalabilidade das aplicações.
+# Olá, eu sou o Giovanni Ricetto! 🚀
 
-Sou analítico 🧠 e estratégico 🎯, contribuindo ativamente para a tomada de decisões e buscando sempre a evolução da equipe. Proativo, implemento e otimizo processos de CI/CD 🔄, IaC 🏗️ e gerenciamento de recursos na nuvem (AWS) ☁️, com foco em eficiência e controle de custos.
+**Quality Engineer | AI Enthusiast | Mentor**
 
-Desenvolvo AWS Lambdas, aplicações Google AppScript e bots 🤖, demonstrando versatilidade e adaptabilidade. Minha atenção aos detalhes e busca por aprimoramento resultam em trabalho de alta qualidade ✨.
+Sou um Especialista em Garantia de Qualidade com mais de 8 anos de experiência operando na interseção entre Qualidade, DevOps e Cloud Services. Meu foco é otimizar fluxos de engenharia de software aplicando Inteligência Artificial no dia a dia, desde a concepção do projeto até o monitoramento em produção. 
 
-Em resumo:
+Acredito que a qualidade é construída por pessoas. Por isso, a mentoria técnica e a liderança de times (de estagiários a seniores) são pilares fundamentais da minha rotina.
 
-QA completo com expertise em automação, DevOps, Cloud e programação.
-Líder e colaborativo, sempre em busca de aprendizado.
-Apaixonado por impulsionar a qualidade e inovação no desenvolvimento de software.
-Vamos construir algo incrível juntos? 🤝
+### 🛠️ Minha Stack & Arsenal Técnico
 
-## Habilidades e Ferramentas:
+**Linguagens & Ecossistemas**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-QA: Automação de Testes (API e Web UI), Testes de Carga, Planejamento de Testes, Testes Manuais
-DevOps/Cloud: CI/CD, IaC, AWS, Azure DevOps, GitHub Actions, CloudFormation, FinOps
-Programação: Ruby, Python, JavaScript/TypeScript
-Ferramentas: RSpec, Selenium, Capybara, Cucumber, SitePrism, JMeter, Postman, Zeplin, Figma, Git
-## Contato:
+**Testes, Automação & IA**
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![RSpec](https://img.shields.io/badge/rspec-%23701516.svg?style=for-the-badge&logo=rubygems&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI%20Prompt%20Engineering-FF9900?style=for-the-badge&logo=openai&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/ricetto/)]
-## Projetos em Destaque:
+**Cloud, DevOps & Ferramentas**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure_devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### Automação de subida do ambiente de qualidade
+**Bancos de Dados**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC292B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-Inspirado pelo serviço de uma equipe dentro da empresa que trabalho, que automatiza a subida do ambiente, desligamento e também orquestra o deploys.
-O ambiente em questão possuia apenas uma tela web com as VMs e botões para ligar e desligar, outro problema avaliado era que tem uma ordem específica para ligar as máquinas para que o ambiente funcione corretamente; Falando da tela de VMs, o serviço era antigo e descontinuado, nenhum dev/qa que estava atualmente na empresa sabia dar manutenção e sem contar que era delicado fazer muita alteração no serviço. Então com uma simples ideia de modernizar o serviço utilizei Lambda+EventBridge(AWS), Google Chat (Workspace) e Apps Script.
+---
 
-Lambda ficou com a parte de código em serverless e o EventBridge com o gatilho de horário.
-Google Chat foi dividido em 2 partes. Notificação do lambda executar com sucesso e receber comando em um bot para que os qas pudessem orquestrar ligamento e desligamento dos ambientes.
-Apps Script foi utilizado para desenvolver o bot mencionado anteriormente.
+### 🚀 Criações e Projetos em Destaque
 
-O resultadodo projeto são os QAs com mais tempo podendo testar e usar o ambiente. Menos tempo do ambiente indisponível por ser ligado na ordem errada e principalmente modernização do legado para algo mais simples e de facil manutenção.]
+💡 **[Live Wall com Ruby](https://github.com/GiovanniRicetto/livewallwithruby)**
+Aplicação web interativa para compartilhamento de mídias em tempo real durante eventos.
+* **O desafio:** Criar uma alternativa própria e escalável a soluções SaaS caras.
+* **Stack:** Ruby on Rails | PostgreSQL | Tailwind CSS | JavaScript Vanilla | Solid Queue | FFmpeg | ZROK.
+* **Destaque:** Processamento assíncrono de vídeos para GIFs sem gargalos, testes de carga pesados com RSpec para os workers do Puma, e Skills Gemini para automatizar o setup do ambiente local via prompt.
 
-### Bot de links úteis internos
-O que era um site, hospedado em uma máquina na AWS que não recebia atualizações se tornou um bot, prático, serveless (com custo 0 para empresa) e que ainda conta com um rolador de dados!
-Assim como o Prometheus, minha primeira criação, pensei... Por que não inovar uma tela velha e sem graça para um bot assim como o outro? Detalhe que agora apenas precisava trazer links, não mais requisitar AWS Lambdas e esperar Webhooks em uma sala.
+🤖 **Bot Serverless para Google Chat**
+Modernização de um serviço legado de orquestração de ambientes virtuais (VMs) que sofria com falta de manutenção e falhas de ordem de inicialização.
+* **Stack:** AWS Lambda, EventBridge, Google Workspace (Chat), Apps Script.
+* **Destaque:** Transformou uma tela web obsoleta em comandos ágeis via bot. O Lambda executa o código serverless, o EventBridge gerencia gatilhos de horário e o Apps Script processa o bot. O resultado foi a redução drástica de indisponibilidade dos ambientes e mais tempo útil para a equipe de QA.
 
-Então assim nasceu AlexandriaBot, tendo seu nome inspirado na biblioteca do império romano. Um bot que de forma simples todos usuários da organização conseguem acessar links úteis e mantendo em sigílo tudo, pois algumas informações sensíveis não podem ficar expostas, e já que apenas pode ser acessado atravéz do Google Chat da organização, as informações ficam guardadas em segurança.
+💡 **[Fullscreen Borderless](https://github.com/GiovanniRicetto/fullscreen-borderless)**
+*(Solução focada em otimização de janelas/displays)*
+* Desenvolvido para resolver gargalos de usabilidade e visualização, garantindo uma experiência limpa e sem bordas.
 
+📱 **Ano em Pixel**
+Aplicativo Android gratuito e open-source utilizando a tecnologia WebView, projetado para ser leve e altamente compatível.
+
+---
+
+### 🤝 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricetto/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovanni.ricetto@gmail.com)
 
 
 "A qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente." - John Ruskin
