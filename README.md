@@ -45,17 +45,17 @@ Aplicação web interativa para compartilhamento de mídias em tempo real durant
 * **Stack:** Ruby on Rails | PostgreSQL | Tailwind CSS | JavaScript Vanilla | Solid Queue | FFmpeg | ZROK.
 * **Destaque:** Processamento assíncrono de vídeos para GIFs sem gargalos, testes de carga pesados com RSpec para os workers do Puma, e Skills Gemini para automatizar o setup do ambiente local via prompt.
 
-🤖 **Bot Serverless para Google Chat**
-Modernização de um serviço legado de orquestração de ambientes virtuais (VMs) que sofria com falta de manutenção e falhas de ordem de inicialização.
-* **Stack:** AWS Lambda, EventBridge, Google Workspace (Chat), Apps Script.
-* **Destaque:** Transformou uma tela web obsoleta em comandos ágeis via bot. O Lambda executa o código serverless, o EventBridge gerencia gatilhos de horário e o Apps Script processa o bot. O resultado foi a redução drástica de indisponibilidade dos ambientes e mais tempo útil para a equipe de QA.
-
 💡 **[Fullscreen Borderless](https://github.com/GiovanniRicetto/fullscreen-borderless)**
 *(Solução focada em otimização de janelas/displays)*
 * Desenvolvido para resolver gargalos de usabilidade e visualização, garantindo uma experiência limpa e sem bordas.
 
-📱 **Ano em Pixel**
+📱 **[Years in Pixels](https://github.com/GiovanniRicetto/YiP)**
 Aplicativo Android gratuito e open-source utilizando a tecnologia WebView, projetado para ser leve e altamente compatível.
+
+🤖 **Bot Serverless para Google Chat**
+Modernização de um serviço legado de orquestração de ambientes virtuais (VMs) que sofria com falta de manutenção e falhas de ordem de inicialização.
+* **Stack:** AWS Lambda, EventBridge, Google Workspace (Chat), Apps Script.
+* **Destaque:** Transformou uma tela web obsoleta em comandos ágeis via bot. O Lambda executa o código serverless, o EventBridge gerencia gatilhos de horário e o Apps Script processa o bot. O resultado foi a redução drástica de indisponibilidade dos ambientes e mais tempo útil para a equipe de QA.
 
 ---
 
